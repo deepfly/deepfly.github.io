@@ -1,7 +1,7 @@
 # Site settings
 title: Deepfly's Blog
 SEOTitle: Deepfly's Blog | BY Blog
-header-img: img/post-bg-desk.jpg
+header-img: img/home-bg-google-home.jpg
 email: nkuzzp@gmail.com
 description: "Every failure is leading towards success."
 keyword: "Deepfly's Blog, Big Data, Cloud Computing, AI, Machine Learning"
@@ -98,7 +98,7 @@ friends: [
         href: "http://zhengwuyang.com"
     },{
         title: "简书·BY",
-        href: "http://www.jianshu.com/u/e71990ada2fd"
+        href: "http://www.jianshu.com/u/492a12c6d2ba"
     },{
         title: "Apple",
         href: "https://apple.com"
