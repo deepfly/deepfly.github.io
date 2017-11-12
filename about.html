@@ -69,12 +69,12 @@ header-img: "img/about-bg-Deepfly.png"
     // handle render
     function _render(){
         var _hash = window.location.hash;
-        // en
+        // en by default
         if(_hash == "#en"){
             $select.selectedIndex = 0;
             $en.style.display = "block";
             $zh.style.display = "none";
-        // zh by default
+        // zh
         }else{
             // not trigger onChange, otherwise cause a loop call.
             $select.selectedIndex = 1;
@@ -86,9 +86,9 @@ header-img: "img/about-bg-Deepfly.png"
     // handle select change
     function onLanChange(index){
         if(index == 0){
-            window.location.hash = "#zh"
-        }else{
             window.location.hash = "#en"
+        }else{
+            window.location.hash = "#zh"
         }
     }
 
