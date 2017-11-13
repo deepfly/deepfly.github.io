@@ -1,10 +1,10 @@
 # Site settings
 title: Deepfly's Blog
-SEOTitle: Deepfly's Blog | BY Blog
+SEOTitle: Deepfly's Blog
 header-img: img/home-bg-google-home.jpg
 email: nkuzzp@gmail.com
 description: "Every failure is leading towards success."
-keyword: "Deepfly's Blog, Big Data, Cloud Computing, AI, Machine Learning"
+keyword: "Deepfly's Blog, System Design, Big Data, Cloud Computing, AI, Machine Learning"
 url: "http://deepfly.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/deepfly/deepfly.github.io.git" # you code repository
